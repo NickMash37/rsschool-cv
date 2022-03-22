@@ -1,17 +1,12 @@
 **Nikolay Pivkin CV**
-<span>______________________________________________________</span>
 
 **Name:** Nikolay
-<span>______________________________________________________</span>
 
 **Last name:** Pivkin
-<span>______________________________________________________</span>
 
 **Contacts:** *telegram*: @nickmash_11 ; *e-mail*: nick.mash37@gmail.com
-<span>______________________________________________________</span>
 
 **About me:** Started to study development in 2021. At this moment I graduated from Innopolis University as a junior frontend-developer. I'm always ready to learn something new and improve my skills whether tech skills or soft skills. Now I'm a student of RS School.
-<span>______________________________________________________</span>
 
 **Skills and Proficiency:**
 
@@ -23,7 +18,6 @@
 - Adobe Photoshop
 - Node.js (low level)
 
-<span>______________________________________________________</span>
 
 **Code examples:**
 
@@ -71,7 +65,6 @@
         );
 }
 ```
-<span>______________________________________________________</span>
 
 **Work experience:** backend-development using Node.JS, MongoDB (1 month).
 
@@ -79,11 +72,9 @@
 - a little browser game (https://github.com/NickMash37/training-game-js)
 - attempt to make my cv, but I didn't do HTML/CSS, JS only (https://github.com/NickMash37/my-cv)
 - my thesis app in Innopolis which was made using React (https://gitlab.com/areyfclm/pivkin_nikolay_pcs_frontend_21_09_homeworks/-/tree/thesis-app/react/innopolis)
-  
-<span>______________________________________________________</span>
 
 **Education:** Ivanovo State University (History), Innopolis University (junior frontend-developer)
-<span>______________________________________________________</span>
+
 **Foreign languages:**
 - English (intermediate)
 - Russian (native)
