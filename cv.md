@@ -21,7 +21,7 @@
 
 **Code example:**
 
-```const [isShow, setIsShow] = useState(false);
+``` const [isShow, setIsShow] = useState(false);
 
     function toggle() {
         setIsShow(isShow => !isShow);
